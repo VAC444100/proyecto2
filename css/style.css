@@ -4,3 +4,8 @@ body {
     color: white;
     text-align: center;
 }
+
+.header {
+    background-color: grey;
+    color: black;
+}
